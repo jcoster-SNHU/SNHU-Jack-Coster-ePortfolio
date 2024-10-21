@@ -1,8 +1,9 @@
 title: Jack Coster - SNHU CS 499 Capstone ePortfolio
 description: My  CS 499 ePortfolio hosting my three code artifacts with their original and ehanced files.
-theme: jekyll-theme-cayman
+
+remote_theme: pages-themes/cayman@v0.2.0
+plugins:
+- jekyll-remote-theme # add this line to the plugins list if you already have one
 
 url: https://jcoster-snhu.github.io/SNHU-Jack-Coster-ePortfolio/
 
-aux_links:
-  Template Repository: https://github.com/pages-themes/cayman
